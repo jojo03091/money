@@ -1,0 +1,1 @@
+C:\git\money\money\money\bin\Debug\money.exe.config
